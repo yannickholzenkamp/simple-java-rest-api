@@ -1,6 +1,6 @@
-package me.holzenkamp.sample.java.rest;
+package me.sample.java.rest;
 
-import me.holzenkamp.sample.java.rest.internal.SampleJson;
+import me.sample.java.rest.internal.SampleJson;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

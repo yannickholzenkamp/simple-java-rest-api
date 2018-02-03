@@ -1,4 +1,4 @@
-package me.holzenkamp.sample.java.rest;
+package me.sample.java.rest;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

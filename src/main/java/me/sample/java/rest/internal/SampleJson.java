@@ -1,4 +1,4 @@
-package me.holzenkamp.sample.java.rest.internal;
+package me.sample.java.rest.internal;
 
 public class SampleJson {
 
