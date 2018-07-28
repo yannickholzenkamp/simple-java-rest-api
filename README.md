@@ -9,3 +9,4 @@ http://localhost:8080/simpleapp/service/test
 Other application servers:
 http://<your-application-server>/<your-context-root>/service/test
 ```
+[![Build Status](https://travis-ci.org/yannickholzenkamp/simple-java-rest-api.svg?branch=master)](https://travis-ci.org/yannickholzenkamp/simple-java-rest-api)
